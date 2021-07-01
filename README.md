@@ -1,5 +1,5 @@
 # kaggler-slack-emoji ([click here](https://fkubota.github.io/kaggler-slack-emoji/))
-(……きこえますか…「kaggler」よ……今… あなたの…心に…直接… 呼びかけています… starです…starを押すすのです…)
+(……きこえますか…「kaggler」よ……今… あなたの…心に…直接… 呼びかけています… starです…starを押すのです…)
 
 <img src='./public/samune.png' width='800'>
 
