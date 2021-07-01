@@ -1,6 +1,8 @@
 # kaggler-slack-emoji ([click here](https://fkubota.github.io/kaggler-slack-emoji/))
 (……きこえますか…「kaggler」よ……今… あなたの…心に…直接… 呼びかけています… starです…starを押すすのです…)
 
+<img src='./public/samune.png' width='800'>
+
 
 ## ナニコレ
 **まずは[ここ](https://fkubota.github.io/kaggler-slack-emoji/)を見て！！！**  
@@ -24,7 +26,9 @@ kagglerはよくチームマージなどをして新しくslackのワークス�
 		- [シンプル](https://emoji-gen.ninja/)
 		- [ちょっとこだわりたい](https://emoji-gen.ninja/)
 
-2. PRを出す。
+2. emojiを用途に応じて、`emoji/kaggle/` or `emoji/zatsudan/` に置いてください。
+
+3. PRを出す。
 
 
 その他質問あれば、[Twitter](https://twitter.com/fkubota_) のDMでもしてください。
