@@ -24,7 +24,7 @@ kagglerはよくチームマージなどをして新しくslackのワークス�
 	- 原則、emojiファイル名は `日本語禁止` とします。
 	- 作成したい場合は以下のサイトとか使えます。
 		- [シンプル](https://emoji-gen.ninja/)
-		- [ちょっとこだわりたい](https://emoji-gen.ninja/)
+		- [ちょっとこだわりたい](https://zk-phi.github.io/MEGAMOJI/)
 
 2. emojiに用途に応じて、`emoji/kaggle/` or `emoji/zatsudan/` に置いてください。
 
